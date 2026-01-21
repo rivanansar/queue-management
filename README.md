@@ -10,7 +10,7 @@ Sebuah aplikasi yang dapat memudahkan user untuk memasukkan data yang berisi Nam
  - PHP 8.2
  - MySQL / PHPMyadmin
  - Eloquent
-#FrontEnd
+</FrontEnd
  - Blade
  - Laravel Breeze (For authentication)
  - Tailwind
