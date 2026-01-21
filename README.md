@@ -9,8 +9,9 @@ Sebuah aplikasi yang dapat memudahkan user untuk memasukkan data yang berisi Nam
  - Laravel 12
  - PHP 8.2
  - MySQL / PHPMyadmin
- - Eloquent
- <br />FrontEnd
+ - Eloquent <br />
+   
+FrontEnd
  - Blade
  - Laravel Breeze (For authentication)
  - Tailwind
