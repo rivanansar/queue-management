@@ -1,6 +1,6 @@
 ## About Application
 Sebuah aplikasi yang dapat memudahkan user untuk memasukkan data yang berisi Nama proyek, Nama alat, Tipe dan status nya.
-##Application Features
+## Application Features
 - Create Data
 - Edit Data
 - Delete Data
@@ -9,7 +9,7 @@ Sebuah aplikasi yang dapat memudahkan user untuk memasukkan data yang berisi Nam
  - Laravel 12
  - PHP 8.2
  - MySQL / PHPMyadmin
- - Eloquent
+ - Eloquent </b>
 FrontEnd
  - Blade
  - Laravel Breeze (For authentication)
